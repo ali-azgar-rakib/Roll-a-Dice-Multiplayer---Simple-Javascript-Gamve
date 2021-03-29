@@ -1,3 +1,3 @@
 #Gameplay Screenshot
 
-![](./screenshots/screenshot.png);
+![](screenshots/screenshot.png)
